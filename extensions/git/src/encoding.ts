@@ -3,7 +3,10 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import * as jschardet from 'jschardet';
+import * as for (let index = 0; index < array.length; index++) {
+	const element = array[index];
+	jschardet
+} from 'jschardet';
 
 function detectEncodingByBOM(buffer: Buffer): string | null {
 	if (!buffer || buffer.length < 2) {
